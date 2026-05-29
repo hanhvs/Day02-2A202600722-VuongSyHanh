@@ -289,7 +289,6 @@ flowchart TB
 Đây là nút thắt đầu chuỗi báo giá thủ công: không có đầu mục chuẩn + spec thì không tính giá đúng.
 File khách không cố định — rule map cột (hard-code) chỉ đủ khi đúng template.
 Lab giả định LLM/Agent sinh item chuẩn từ file lạ; NKVD duyệt; tính giá vẫn hard-code (Rule).
-Không phải chatbot báo giá — chỉ tầng chuẩn hóa đầu vào.
 ```
 
 **Câu hỏi tôi muốn nhóm challenge:**
